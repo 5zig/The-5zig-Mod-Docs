@@ -1,13 +1,13 @@
 author = Diego R. V.
 
 the5zigmod.key.toggle_mod=Ativar/desativar Mod
-the5zigmod.key.toggle_chat=Ativar/desativar Chat
-the5zigmod.key.coordinates_clipboard=Clipboard de Coords.
+the5zigmod.key.toggle_chat=Ativar/desativar chat
+the5zigmod.key.coordinates_clipboard=M\u00f3dulo de coordenadas
 the5zigmod.key.raid_calculator=Calculadora MCPVP Raid
-the5zigmod.key.hypixel_stats=Stats do servidor Hypixel
+the5zigmod.key.hypixel_stats=Hypixel Stats
 the5zigmod.key.zoom=Zoom
 the5zigmod.key.timer.start=Cron\u00f4metro
 the5zigmod.key.timer.reset=Reiniciar cron\u00f4metro
 the5zigmod.key.teamspeak=TeamSpeak
 the5zigmod.key.username_history=Hist\u00f3rico de IGN
-the5zigmod.key.toggle_chat_filter=Ativar/desativar Filtro do Chat
+the5zigmod.key.toggle_chat_filter=Ativar/desativar filtro do chat
